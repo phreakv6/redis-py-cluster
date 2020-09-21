@@ -10,7 +10,7 @@ The branch `master` will always contain the latest unstable/development code tha
 
 
 
-# Documentation
+# Doc
 
 All documentation can be found at https://redis-py-cluster.readthedocs.io/en/master
 
